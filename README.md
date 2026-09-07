@@ -1,0 +1,1 @@
+To protect personal privacy, raw facial image datasets and personal reference frames have been omitted from this repository. Users can run the application by providing their own set of target images or pre-extracted landmark vectors (.npy files) in the data/reference_landmarks/ directory
